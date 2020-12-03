@@ -1,2 +1,3 @@
-# IoT_homework
-IoT_homework
+# IoT Practice 
+
+## Chapter 1
