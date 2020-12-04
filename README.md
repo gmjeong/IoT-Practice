@@ -185,3 +185,6 @@
         
 ### 3-23
     Math.max / Math.min 에 apply 적용 예제.
+        
+### 3-24
+    ES6 spread operator 활용 예제.
