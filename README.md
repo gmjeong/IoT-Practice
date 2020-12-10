@@ -257,3 +257,6 @@
 
 ### 4-16
     ES6의 Generator를 이용 예제.
+
+### 4-17
+    Promise + Async/Await 이용 예제.
