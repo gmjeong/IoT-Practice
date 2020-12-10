@@ -224,3 +224,6 @@
 
 ### 4-5
     Array.prototype.map 구현 예제. 
+
+### 4-6
+    addEventListener 예제. 
