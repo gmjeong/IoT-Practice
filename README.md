@@ -221,3 +221,6 @@
 
 ### 4-4
     Array.prototype.map 인자 순서 변경 예제. 
+
+### 4-5
+    Array.prototype.map 구현 예제. 
