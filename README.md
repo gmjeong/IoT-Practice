@@ -325,3 +325,6 @@
      
 ### 6-3
     prototype chaining 예제.
+     
+### 6-4
+    constructor 변경 예제.
