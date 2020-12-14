@@ -319,3 +319,6 @@
 ## Chapter 6
 ### 6-1
      prototype 프로퍼티 생성 예제.
+     
+### 6-2
+     Constructor Prototype Property 생성 예제.
