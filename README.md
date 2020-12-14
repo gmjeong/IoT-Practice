@@ -328,3 +328,6 @@
      
 ### 6-4
     constructor 변경 예제.
+     
+### 6-5
+    다양한 constructor 접근 예제.
