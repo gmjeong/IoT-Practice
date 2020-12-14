@@ -365,3 +365,6 @@
      
 ### 7-6
     Square를 Rectangle의 하위 클래스 예제.
+     
+### 7-7
+    Rectangle을 상속하는 Square class 예제.
