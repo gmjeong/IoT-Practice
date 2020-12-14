@@ -322,3 +322,6 @@
      
 ### 6-2
      Constructor Prototype Property 생성 예제.
+     
+### 6-3
+    prototype chaining 예제.
